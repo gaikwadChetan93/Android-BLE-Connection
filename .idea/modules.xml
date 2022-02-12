@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MyBleDemo.iml" filepath="$PROJECT_DIR$/MyBleDemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Android-BLE-Connection.iml" filepath="$PROJECT_DIR$/.idea/modules/Android-BLE-Connection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Android-BLE-Connection.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Android-BLE-Connection.app.iml" />
     </modules>
   </component>
 </project>
